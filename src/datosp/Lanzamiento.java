@@ -68,7 +68,7 @@ public class Lanzamiento extends basep{
     
     @Override
     public String toString() {
-        return "Lanzamiento{" + "valor1=" + valor1 + ", valor2=" + valor2 + '}';
+        return "valor1= " + valor1 + ", valor2= " + valor2 + "\n";
     }
     
 
